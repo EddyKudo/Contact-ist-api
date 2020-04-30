@@ -59,3 +59,5 @@ To publish your website you need to push your code to your github repository and
 $ npm run deploy
 ```
 Note: You will need to [configure github pages for the branch gh-pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/#enabling-github-pages-to-publish-your-site-from-master-or-gh-pages)
+## Can be easily published on zeit using now.json
+file available in sister repo
